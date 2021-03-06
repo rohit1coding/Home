@@ -3,7 +3,7 @@ import '../App.css'
 const P1whatIsLoream = () => {
     return (
         <div className="P1whatIsLoream">
-            <div style={{width:"500px",height:"auto",color:"yellow",margin:"20px"}}>
+            <div style={{width:"40rem",color:"yellow",border:".1rem solid",fontSize:"1.5rem"}}>
             <h1>
             What is Lorem Ipsum?
             </h1>

@@ -3,7 +3,7 @@ import '../App.css'
 const P3whyUse = () => {
     return (
         <div className="P3whyUse">
-            <div style={{width:"500px",height:"auto",color:"black",background:"white",border:"1px solid black",padding:"20px"}}>
+            <div style={{fontSize:"1.4rem",width:"50rem",height:"auto",color:"black",background:"white",border:"0.1rem solid black",padding:"2rem"}}>
             <h1>
             Why do we use it?
             </h1>
